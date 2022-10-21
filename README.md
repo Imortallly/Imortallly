@@ -2,6 +2,6 @@
 
 
 - 🔭 Eu atualmente estou trabalhando como Auxiliar Administrativo
-- 🌱 Estou estudando JavaScript
+- 🌱 Estou estudando React
 
 

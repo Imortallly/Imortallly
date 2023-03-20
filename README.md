@@ -19,7 +19,9 @@ I'm Gomes, a passionate Developer bringing you programming. I'm a beginner in th
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
 <p align="center">
 	<a href="mailto:youssef.b.air2@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	&emsp;
 	<a href="https://github.com/JoJoDevAdventure"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+	&emsp;
 	<a href="https://www.linkedin.com/in/youssef-bouhlel/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
@@ -32,7 +34,8 @@ I'm Gomes, a passionate Developer bringing you programming. I'm a beginner in th
    <a href="https://www.javascript.com" target="_blank">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%2314354C.svg?style=for-the-badge&logo=JavaScript&logoColor=yellow">
   </a>
-	   <a href="https://www.reactjs.com" target="_blank">
+  &emsp;
+  <a href="https://www.reactjs.com" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/React%20-%2314354C.svg?style=for-the-badge&logo=React&logoColor=blue">
   </a>
 </p>
@@ -65,19 +68,6 @@ I'm Gomes, a passionate Developer bringing you programming. I'm a beginner in th
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=for-the-badge&logo=opengl&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white" /></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" /></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 40px>  </picture> IDEs
@@ -85,23 +75,13 @@ I'm Gomes, a passionate Developer bringing you programming. I'm a beginner in th
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="XCode" src="https://img.shields.io/badge/XCode-0078d7.svg?style=for-the-badge&logo=xcode&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=for-the-badge&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
 
  ### <picture> <img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/OS.gif?raw=true" width = 40px>  </picture> Operating Systems
  <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
  
 <p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/MacOS-FCC624?style=for-the-badge&logo=apple&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 </p>

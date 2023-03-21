@@ -104,3 +104,4 @@ I'm Gomes, a passionate Developer bringing you programming. I'm a beginner in th
 
 </details>
   
+![snake gif](https://github.com/Imortallly/Imortallly/blob/output/github-contribution-grid-snake.svg)

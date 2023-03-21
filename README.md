@@ -12,9 +12,7 @@ I'm Gomes, a passionate Developer bringing you programming. I'm a beginner in th
 ### <picture><img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> My Stats
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
 
-   &emsp; &emsp; &emsp; &emsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imortallly&show_icons=true&theme=radical)
-   &emsp;
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imortallly&langs_count=8)](https://github.com/Imortallly/github-readme-stats)
+   &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imortallly&show_icons=true&theme=radical)
 
 ### <picture> <img src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">

@@ -51,7 +51,23 @@ I'm Gomes, a passionate Developer bringing you programming. I'm a beginner in th
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   </a> 
 </p>
-
+ 
+ ### <picture> <img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/Programming_Languages.gif?raw=true" width = 40px>  </picture> Interest to study
+ <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
+ <p align="center"> 
+	 <a href="https://www.typescript.com" target="_blank">
+	    <img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-%2314354C.svg?style=for-the-badge&logo=Typescript&logoColor=blue">
+	  </a>
+	&emsp;
+	  <a href="https://www.python.org/" target="_blank">
+	    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=Python&logoColor=yellow">
+	  </a>
+	&emsp;
+	  <a href="https://www.php.net/" target="_blank">
+	    <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%2314354C.svg?style=for-the-badge&logo=PHP&logoColor=green">
+	  </a>
+ </p> 
+ 
  ### <picture> <img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/Software_Tools.gif?raw=true" width = 40px>  </picture> Software & Tools
  <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
  

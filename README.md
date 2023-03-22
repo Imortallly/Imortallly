@@ -50,10 +50,6 @@ I'm Gomes, a passionate Developer bringing you programming. I'm a beginner in th
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/sass/" target="_blank">
-    <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white">
-  </a> 
 </p>
  
  ### <picture> <img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/Programming_Languages.gif?raw=true" width = 40px>  </picture> Interest to study

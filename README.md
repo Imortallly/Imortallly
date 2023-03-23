@@ -35,7 +35,7 @@ I'm Gomes, a passionate Developer bringing you programming. I'm a beginner in th
   </a>
   &emsp;
   <a href="https://www.reactjs.com" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/React%20-%2314354C.svg?style=for-the-badge&logo=React&logoColor=blue">
+    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   </a>
 </p>
 
@@ -49,7 +49,13 @@ I'm Gomes, a passionate Developer bringing you programming. I'm a beginner in th
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  </a> 
+  </a>
+  &emsp;
+  <a href="https://styled-components.com/" target="_blank">
+    <img alt="StyledComponent" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  </a>
+	
+	
 </p>
  
  ### <picture> <img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/Programming_Languages.gif?raw=true" width = 40px>  </picture> Interest to study
@@ -99,6 +105,18 @@ I'm Gomes, a passionate Developer bringing you programming. I'm a beginner in th
 <p align="center">
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+</p>
+
+ ### 🎨 Design
+ <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
+ <p align="center">
+    <a href="#"><img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"></a>
+   &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"></a>
+   &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
+   &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"></a>
 </p>
 
 <br> 

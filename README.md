@@ -30,6 +30,10 @@ I'm Gomes, a passionate Developer bringing you programming. I'm a beginner in th
 <p align="center"> 
   &emsp; 
   &emsp;
+  <a href="https://www.python.org/" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=Python&logoColor=yellow">
+  </a>
+  &emsp;
    <a href="https://www.javascript.com" target="_blank">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%2314354C.svg?style=for-the-badge&logo=JavaScript&logoColor=yellow">
   </a>
@@ -63,10 +67,6 @@ I'm Gomes, a passionate Developer bringing you programming. I'm a beginner in th
  <p align="center"> 
 	 <a href="https://www.typescript.com" target="_blank">
 	    <img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-%2314354C.svg?style=for-the-badge&logo=Typescript&logoColor=blue">
-	  </a>
-	&emsp;
-	  <a href="https://www.python.org/" target="_blank">
-	    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=Python&logoColor=yellow">
 	  </a>
 	&emsp;
 	  <a href="https://www.php.net/" target="_blank">

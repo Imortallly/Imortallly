@@ -31,7 +31,7 @@ I'm Gomes, a passionate Developer bringing you programming. I'm a beginner in th
   &emsp; 
   &emsp;
   <a href="https://www.python.org/" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=Python&logoColor=yellow">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=Python&logoColor=gray">
   </a>
   &emsp;
    <a href="https://www.javascript.com" target="_blank">

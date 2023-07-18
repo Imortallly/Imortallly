@@ -137,5 +137,3 @@ I'm Gomes, a passionate Developer bringing you programming. I'm a beginner in th
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Imortallly&theme=tokyonight_duo" alt="Imortallly" /></p>
 
 </details>
-  
-![snake gif](https://github.com/Imortallly/Imortallly/blob/output/github-contribution-grid-snake.svg)

@@ -9,11 +9,6 @@
 
 I'm Gomes, a passionate Developer bringing you programming. I'm a beginner in the area, but I've been constantly studying to improve myself and guarantee the highest quality service to the customer!
 
-### <picture><img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> My Stats
-<img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
-
-   &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imortallly&show_icons=true&theme=radical)
-
 ### <picture> <img src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
 <p align="center">
@@ -24,99 +19,37 @@ I'm Gomes, a passionate Developer bringing you programming. I'm a beginner in th
 	<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-gomes-nunes-ab869b24a/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-### <picture> <img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/Programming_Languages.gif?raw=true" width = 40px>  </picture> Programming languages
+### <picture> <img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/Programming_Languages.gif?raw=true" width = 40px>  </picture> Tech Stack
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
 
 <p align="center"> 
-  &emsp; 
-  &emsp;
-  <a href="https://www.python.org/" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=Python&logoColor=gray">
-  </a>
-  &emsp;
-   <a href="https://www.javascript.com" target="_blank">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%2314354C.svg?style=for-the-badge&logo=JavaScript&logoColor=yellow">
-  </a>
-  &emsp;
-  <a href="https://www.reactjs.com" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  </a>
+&emsp; 
+&emsp;
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+&emsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+&emsp;
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript">
+&emsp;
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFBe" alt="React">
+&emsp;
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+&emsp;
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Bootstrap">
+&emsp;
+
 </p>
 
-### <picture> <img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/Front_End.gif?raw=true" width = 40px>  </picture> Frontend Development
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 40px>  </picture> Studies
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
 <p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://styled-components.com/" target="_blank">
-    <img alt="StyledComponent" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-  </a>
-	
-	
-</p>
- 
- ### <picture> <img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/Programming_Languages.gif?raw=true" width = 40px>  </picture> Interest to study
- <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
- <p align="center"> 
-	 <a href="https://www.typescript.com" target="_blank">
-	    <img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-%2314354C.svg?style=for-the-badge&logo=Typescript&logoColor=blue">
-	  </a>
-	&emsp;
-	  <a href="https://www.php.net/" target="_blank">
-	    <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%2314354C.svg?style=for-the-badge&logo=PHP&logoColor=green">
-	  </a>
- </p> 
- 
- ### <picture> <img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/Software_Tools.gif?raw=true" width = 40px>  </picture> Software & Tools
- <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=for-the-badge&logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-</p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 40px>  </picture> IDEs
- <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
-</p>
-
- ### <picture> <img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/OS.gif?raw=true" width = 40px>  </picture> Operating Systems
- <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-</p>
-
- ### 🎨 Design
- <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
- <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"></a>
-   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"></a>
-   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
-   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"></a>
+&emsp; 
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+&emsp;
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+&emsp;
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Java">
+&emsp;
 </p>
 
 <br> 
@@ -126,14 +59,3 @@ I'm Gomes, a passionate Developer bringing you programming. I'm a beginner in th
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
-
-### <picture> <img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/Statistics.gif?raw=true" width = 40px>  </picture> Github Stats
-<img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
-
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----	
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Imortallly&theme=tokyonight_duo" alt="Imortallly" /></p>
-
-</details>

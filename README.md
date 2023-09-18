@@ -48,7 +48,9 @@ I'm Gomes, a passionate Developer bringing you programming. I'm a beginner in th
 &emsp;
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 &emsp;
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+&emsp;
+<img src="https://img.shields.io/badge/MySQL-1520bd?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL">
 &emsp;
 </p>
 

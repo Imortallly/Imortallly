@@ -7,7 +7,7 @@
 ### <picture><img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/about_me.gif?raw=true" width = 40px></picture>
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
 
-I'm Gomes, a passionate Developer bringing you programming. I'm a beginner in the area, but I've been constantly studying to improve myself and guarantee the highest quality service to the customer!
+I'm Gomes, a passionate developer bringing programming to you. I have been constantly studying to improve myself and guarantee my knowledge, always focusing on the best!
 
 ### <picture> <img src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">

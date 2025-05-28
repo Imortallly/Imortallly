@@ -54,9 +54,9 @@ I'm Gomes, a passionate developer bringing programming to you. I have been const
 <img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
 <p align="center"> 
 &emsp; 
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 &emsp;
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/delphi-0c48a8?style=for-the-badge&logo=delphi&logoColor=white" alt="Delphi">
 </p>
 
 <br> 

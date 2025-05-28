@@ -45,6 +45,8 @@ I'm Gomes, a passionate developer bringing programming to you. I have been const
 &emsp;
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled-components">
 &emsp;
+<img src="https://img.shields.io/badge/delphi-0c48a8?style=for-the-badge&logo=delphi&logoColor=white" alt="Delphi">
+&emsp;
 
 </p>
 
